@@ -1,2 +1,2 @@
 # gadamsetti-site
-to manage the website source code
+To manage the website source code
